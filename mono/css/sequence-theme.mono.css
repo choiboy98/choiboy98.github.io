@@ -38,7 +38,7 @@ html,
   font-family: sans-serif;
   color: white;
   text-align: center;
-  background-color: #6BC85E;
+  background-color: #333333;
   -webkit-transition-duration: .5s;
   transition-duration: .5s;
   -webkit-transition-property: background-color;
@@ -74,7 +74,7 @@ html,
 }
 
 .seq.seq-step1 {
-  background-color: #6BC85E;
+  background-color: #333333;
 }
 
 .seq.seq-step2 {
