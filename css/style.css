@@ -77,3 +77,14 @@ hr {
     color: #373737;
     font-size: 35px;
 }
+
+.word-wrap {
+    width: 30em;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 500px) {
+    .column {
+        width: 100%;
+    }
+}
