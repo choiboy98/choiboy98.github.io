@@ -116,8 +116,7 @@ html,
 .seq .seq-title {
   margin: 0;
   font-size: 1em;
-  font-family: 'Exo 2', sans-serif;
-  text-transform: uppercase;
+  font-family: 'Poiret One', sans-serif;
   opacity: 0;
   -webkit-transform: translateX(50px) translateZ(0);
   -ms-transform: translateX(50px) translateZ(0);
