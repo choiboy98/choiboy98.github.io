@@ -80,6 +80,14 @@ hr {
 
 .word-wrap {
     width: 30em;
+    opacity: 0;
+    -webkit-transform: translateX(50px) translateZ(0);
+    -ms-transform: translateX(50px) translateZ(0);
+    transform: translateX(50px) translateZ(0);
+    -webkit-transition-duration: .5s;
+    transition-duration: .5s;
+    -webkit-transition-property: opacity, -webkit-transform;
+    transition-property: opacity, transform;
 }
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
