@@ -107,6 +107,7 @@ html,
   /* Vertically align the ghost and desired elements */
   display: inline-block;
   vertical-align: middle;
+  position: absolute;
 }
 
 .seq .seq-valign > .seq-vcenter {
