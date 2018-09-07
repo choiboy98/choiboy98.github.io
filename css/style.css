@@ -96,23 +96,11 @@ hr {
     transition: 0.3s;
     width: 10%;
     border-radius: 5px;
-    background-color: #99ff66;
-}
-
-.card-2 {
-    float:left;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;
-    width: 10%;
-    border-radius: 5px;
+    margin-left: 5;
     background-color: #99ff66;
 }
 
 .card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-}
-
-.card-2:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
