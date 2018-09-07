@@ -96,7 +96,7 @@ hr {
     transition: 0.3s;
     width: 10%;
     border-radius: 5px;
-    background-color: 
+    background-color: #99ff66;
 }
 
 .card-2 {
@@ -105,7 +105,7 @@ hr {
     transition: 0.3s;
     width: 10%;
     border-radius: 5px;
-    background-color: 
+    background-color: #99ff66;
 }
 
 .card:hover {
