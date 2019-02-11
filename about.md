@@ -10,6 +10,14 @@ layout: page
 
 <p>Currently, I am interested in Computer Security and Artificial Intelligence.</p>
 
+<h2>Organization</h2>
+
+<p>"I am passionate about using technology to give back to the community. Therefore, I am currently working as a software developer for" 
+	<a href = "https://uiuc.hack4impact.org">Hack4Impact</a>
+	", where I work to develop softwares for non-profit organizations."
+</p>
+<p></p>
+
 <h2>Skills</h2>
 
 <ul class="skill-list">
