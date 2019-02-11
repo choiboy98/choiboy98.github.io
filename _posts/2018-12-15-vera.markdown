@@ -1,0 +1,14 @@
+---
+title: "Example"
+layout: post
+date: 2018-12-15
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "hello"
+category: project
+author: neerajaggarwal
+externalLink: false
+---
+
+Potato

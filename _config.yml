@@ -16,8 +16,8 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://choidaniel.info
-your url: http://choidaniel.info
+url: http://http://choidaniel.info
+# your url: http://USERNAME.github.io
 
 permalink: /:title/
 
