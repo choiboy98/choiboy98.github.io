@@ -6,10 +6,9 @@ layout: page
 
 <h2>Academics<h2>
 
-<ul>
-	<p>I am studying Computer Science at the University of Illinois at Urbana-Champaign.</p>
-	<p>Currently, I am interested in Computer Security and Artificial Intelligence.</p>
-</ul>
+<p>I am studying Computer Science at the University of Illinois at Urbana-Champaign.</p>
+
+<p>Currently, I am interested in Computer Security and Artificial Intelligence.</p>
 
 <h2>Skills</h2>
 
