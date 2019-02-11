@@ -6,8 +6,10 @@ layout: page
 
 <h2>Academics<h2>
 
-<p>I am studying Computer Science at the University of Illinois at Urbana-Champaign.
-Currently, I am interested in Computer Security and Artificial Intelligence. I am juggling between 17 credit hours, 2 committed club activities, and an internship.asdfasdfasdfasdfasdfasdfafw whh pawifhawoei awe awpiefawioe wea iwhf</p>
+<p>I am studying Computer Science at the 
+	<a href = "https://cs.illinois.edu" target = "_blank">University of Illinois at Urbana-Champaign.</a>
+	Currently, I am interested in Computer Security and Artificial Intelligence. I am juggling between 17 credit hours, 2 committed club activities, and an internship.
+</p>
 
 <h2>Organization</h2>
 
