@@ -12,9 +12,13 @@ layout: page
 
 <h2>Organization</h2>
 
-<p>"I am passionate about using technology to give back to the community. Therefore, I am currently working as a software developer for" 
-	<a href = "https://uiuc.hack4impact.org">Hack4Impact</a>
-	", where I work to develop softwares for non-profit organizations."
+<p>I am passionate about using technology to give back to the community. Therefore, I am currently working as a software developer for 
+	<a href = "https://uiuc.hack4impact.org/">Hack4Impact</a>
+	, where I work to develop softwares for non-profit organizations. These projects include 
+	<a href = "https://uiuc.hack4impact.org/projects/?name=c2tc-2">Cut to the Case</a> 
+	in which I worked as a Frontend developer and 
+	<a href = "https://www.kiva.org">Kiva</a>
+	in which I am working as a Backend and Security developer.
 </p>
 <p></p>
 
