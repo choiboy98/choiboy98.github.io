@@ -6,7 +6,7 @@ headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "hello"
-category: project
+category: about
 author: neerajaggarwal
 externalLink: false
 ---
