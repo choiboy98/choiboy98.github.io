@@ -31,6 +31,19 @@ layout: page
 	Boxing has taught me teamwork, perseverance, and confidence.
 </p>
 
+<h2>Hobbies</h2>
+
+<p>I have always loved to cook. Inspired by Jimmy Wong and his pop-up restaurant,
+	<a href = "http://www.denchrestaurant.com" target = "_blank">DENCH.</a>,
+	I am seriously beginning my cooking journey as an aspiring chef. I am putting up some pictures of my creation on 
+	<a href = "http://www.choidaniel.info/dan-dy/" target = "_blank">DAN-DY.</a>
+</p>
+
+<p>Along with cooking, I love singing. I create covers and my own songs occasionally. Some of my videos can be found on
+	<a href = "https://www.youtube.com/user/MrChoicode" target = "_blank">MusiChoi</a> and
+	<a href = "https://www.youtube.com/channel/UCnJWZXnbLkhQvWDPItFUTDg" target = "_blank">story of us</a>.
+</p>
+
 <h2>Skills</h2>
 
 <ul class="skill-list">
