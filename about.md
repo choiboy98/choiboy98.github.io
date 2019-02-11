@@ -20,6 +20,15 @@ Currently, I am interested in Computer Security and Artificial Intelligence. I a
 	in which I am working as a Backend and Security developer.
 </p>
 
+<p>I am also passionate about sports. I have been boxing for over a year now and have been part of the 
+	<a href = "http://illiniboxing.com" target = "_blank">UIUC Boxing Competitive team</a> 
+	for 2 semesters now. I will be competing at 
+	<a href = "https://www.arnoldsportsfestival.com/sports-and-events/boxing-MMA/amateur-boxing" target = "_blank">Arnold Classic</a>
+	and 
+	<a href = "http://www.collegeboxing.org/nationals/" target = "_blank">USIBA Nationals</a>.
+	Boxing has taught me teamwork, perseverance, and confidence.
+</p>
+
 <h2>Skills</h2>
 
 <ul class="skill-list">
