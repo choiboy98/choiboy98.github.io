@@ -15,9 +15,10 @@ externalLink: false
     Hack4Impact is an organization run by students that builds software for non-profit organizations. I am part of the 
     <a href = "https://uiuc.hack4impact.org" target = "_blank">UIUC Chapter</a>.
 </p>
----
 
-![Markdowm Image][../assets/images/fa18-team-3.jpg]
+<div class="breaker"></div>
+
+<img class="image" src="../assets/images/fa18-team-3.jpg" alt="Hack4Impact Picture">
 <figcaption class="caption">Hack4Impact Fall 2018</figcaption>
 
 hi
