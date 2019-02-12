@@ -11,9 +11,10 @@ author: Daniel Choi
 externalLink: false
 ---
 
-#### Hack4Impact is an organization run by students that builds software for non-profit organizations. I am part of the 
-<a href = "https://uiuc.hack4impact.org" target = "_blank">UIUC Chapter</a>.
-
+<p>
+    Hack4Impact is an organization run by students that builds software for non-profit organizations. I am part of the 
+    <a href = "https://uiuc.hack4impact.org" target = "_blank">UIUC Chapter</a>.
+</p>
 ---
 
 hi
