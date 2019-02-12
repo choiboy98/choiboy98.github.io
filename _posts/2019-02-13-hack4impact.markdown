@@ -4,7 +4,7 @@ layout: post
 date: 2019-02-12
 headerImage: false
 projects: true
-hidden: true # don't count this post in blog pagination
+hidden: false # don't count this post in blog pagination
 description: "Creating applications for non-profit organizations"
 category: project
 author: Daniel Choi
