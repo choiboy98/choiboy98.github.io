@@ -17,7 +17,7 @@ externalLink: false
 </p>
 ---
 
-![Markdown Image][../assets/images/fa18-team-3.jpg]
+![Markdowm Image][../assets/images/fa18-team-3.jpg]
 <figcaption class="caption">Hack4Impact Fall 2018</figcaption>
 
 hi
