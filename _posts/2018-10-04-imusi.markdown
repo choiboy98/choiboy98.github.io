@@ -13,7 +13,7 @@ externalLink: false
 
 <p>
     imusi is a Hackathon project from
-    <a href = "www.vandyhacks.org" target = "_blank">VandyHacks</a>
+    <a href = "vandyhacks.org" target = "_blank">VandyHacks</a>
     , which recommends music based on the pictures the users take.
 </p>
 
