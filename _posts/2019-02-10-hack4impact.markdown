@@ -1,6 +1,6 @@
 ---
 title: "Hack4Impact"
-layout: none
+layout: post
 date: 2019-02-12
 headerImage: false
 projects: true
