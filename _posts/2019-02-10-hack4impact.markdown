@@ -1,7 +1,7 @@
 ---
 title: "Hack4Impact"
-layout: post
-# date: 2019-02-12
+layout: none
+date: 2019-02-12
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
