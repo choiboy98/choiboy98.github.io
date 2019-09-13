@@ -21,3 +21,19 @@
 .text {
     margin: 0;
 }
+
+.logo {
+    width: 5.5vh;
+    height: auto;
+    padding-top: 5%;
+    padding-right: 5%;
+}
+
+.logo-animation {
+    width: 5.5vh;
+    height: auto;
+}
+
+.logo-animation:hover {
+    padding-top: 3%;
+}
