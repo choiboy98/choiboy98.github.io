@@ -1,0 +1,23 @@
+.background {
+    background-color: lightsalmon;
+    min-height: 100vh;
+}
+  
+.daniel {
+    width: 50vh;
+    height: auto;
+}
+
+.row {
+    column-count: 2;
+    padding: 10% 0 0 15%;
+    column-gap: 0px;
+    font-family: barlow;
+}
+.block {
+    display: inline-block;
+}
+
+.text {
+    margin: 0;
+}
