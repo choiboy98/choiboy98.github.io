@@ -25,15 +25,88 @@
 .logo {
     width: 5.5vh;
     height: auto;
-    padding-top: 5%;
-    padding-right: 5%;
+    margin-top: 5%;
+    margin-right: 5%;
 }
 
 .logo-animation {
-    width: 5.5vh;
-    height: auto;
+    animation: 0.25s drop linear;
 }
 
 .logo-animation:hover {
-    padding-top: 3%;
+    transform: translateY(-5px);
+    animation: 0.25s rise linear;
+
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.16);
+    transition: box-shadow 0.25s linear;
+    border-radius: 100%;
+}
+
+@keyframes drop {
+    0% {
+      transform: translateY(-5px);
+    }
+    100% {
+      transform: translateY(0px);
+    }
+  }
+  
+  @keyframes rise {
+    0% {
+      transform: translateY(0);
+    }
+    100% {
+      transform: translateY(-5px);
+    }
+  }
+
+.vertical .flip-container {
+    position: relative;
+}
+
+.vertical .back {
+    transform: rotateX(180deg);
+}
+
+.vertical .flip-container .flipper {
+    transform-origin: 100% 213.5px; /* half of height */
+}
+
+.vertical .flip-container:active .flipper {
+    transform: rotateX(-180deg);
+}
+
+.flip-container {
+	perspective: 1000px;
+}
+/* flip the pane when hovered */
+.flip-container:active .flipper, .flip-container.hover .flipper {
+    transform: rotateX(-180deg);
+}
+
+/* flip speed goes here */
+.flipper {
+	transition: 0.6s;
+	transform-style: preserve-3d;
+
+	position: relative;
+}
+
+/* hide back of pane during swap */
+.front, .back {
+	backface-visibility: hidden;
+
+	position: absolute;
+}
+
+/* front pane, placed above back */
+.front {
+	z-index: 2;
+	/* for firefox 31 */
+	transform: rotateY(0deg);
+}
+
+/* back, initially hidden pane */
+.back {
+	transform: rotateY(180deg);
 }
